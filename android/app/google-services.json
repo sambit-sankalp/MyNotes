@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459421547688",
+    "project_id": "notesapp-16256",
+    "storage_bucket": "notesapp-16256.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459421547688:android:a9d35af857110ab19a169d",
+        "android_client_info": {
+          "package_name": "com.sambit.my_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459421547688-ddfbqfmpmg56na6dap870dtmd67gudtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhXQEAe2vSGynX4_4qKT-uDC2BRBVh3N4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459421547688-ddfbqfmpmg56na6dap870dtmd67gudtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
